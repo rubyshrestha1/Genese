@@ -1,3 +1,3 @@
 # Genese
 
-##Code practice in Genese class
+Code snippets of Genese class
